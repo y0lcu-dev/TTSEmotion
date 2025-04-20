@@ -1,0 +1,173 @@
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Happy\6783_mt_sepet.wav|mutlu ve enerjik bir ses tonu|6783_mt_sepet
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Calm\1984_sk_firildak.wav|sakin ve rahatlatıcı bir ses tonu|1984_sk_firildak
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Calm\1984_sk_melek.wav|sakin ve rahatlatıcı bir ses tonu|1984_sk_melek
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Calm\1234_sk_eski.wav|sakin ve rahatlatıcı bir ses tonu|1234_sk_eski
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Sad\6783_hl_isirgan.wav|üzgün ve düşük enerjili bir ses tonu|6783_hl_isirgan
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Angry\1157_kz_rihtim.wav|öfkeli ve sert bir ses tonu|1157_kz_rihtim
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Angry\7895_kz_dugun.wav|öfkeli ve sert bir ses tonu|7895_kz_dugun
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Happy\1358_mt_tahta.wav|mutlu ve enerjik bir ses tonu|1358_mt_tahta
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Calm\7895_sk_ceren.wav|sakin ve rahatlatıcı bir ses tonu|7895_sk_ceren
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Angry\1984_kz_japon.wav|öfkeli ve sert bir ses tonu|1984_kz_japon
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Happy\1358_mt_eski.wav|mutlu ve enerjik bir ses tonu|1358_mt_eski
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Sad\1234_hl_deyim.wav|üzgün ve düşük enerjili bir ses tonu|1234_hl_deyim
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Calm\6783_sk_satir.wav|sakin ve rahatlatıcı bir ses tonu|6783_sk_satir
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Calm\1234_sk_sarj.wav|sakin ve rahatlatıcı bir ses tonu|1234_sk_sarj
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Angry\1234_kz_kibir.wav|öfkeli ve sert bir ses tonu|1234_kz_kibir
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Sad\1234_hl_tirtil.wav|üzgün ve düşük enerjili bir ses tonu|1234_hl_tirtil
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Happy\6783_mt_firildak.wav|mutlu ve enerjik bir ses tonu|6783_mt_firildak
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Happy\1984_mt_pamuk.wav|mutlu ve enerjik bir ses tonu|1984_mt_pamuk
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Sad\1984_hl_demir.wav|üzgün ve düşük enerjili bir ses tonu|1984_hl_demir
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Happy\6783_mt_eski.wav|mutlu ve enerjik bir ses tonu|6783_mt_eski
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Calm\1234_sk_cilek.wav|sakin ve rahatlatıcı bir ses tonu|1234_sk_cilek
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Sad\1157_hl_utanc.wav|üzgün ve düşük enerjili bir ses tonu|1157_hl_utanc
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Angry\1234_kz_isirgan.wav|öfkeli ve sert bir ses tonu|1234_kz_isirgan
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Sad\7895_hl_demet.wav|üzgün ve düşük enerjili bir ses tonu|7895_hl_demet
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Sad\1234_hl_unlu.wav|üzgün ve düşük enerjili bir ses tonu|1234_hl_unlu
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Angry\6783_kz_konuk.wav|öfkeli ve sert bir ses tonu|6783_kz_konuk
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Angry\1234_kz_dugun.wav|öfkeli ve sert bir ses tonu|1234_kz_dugun
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Happy\1234_mt_turev.wav|mutlu ve enerjik bir ses tonu|1234_mt_turev
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Angry\6783_kz_ceren.wav|öfkeli ve sert bir ses tonu|6783_kz_ceren
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Sad\7895_hl_deyim.wav|üzgün ve düşük enerjili bir ses tonu|7895_hl_deyim
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Sad\1234_hl_cene.wav|üzgün ve düşük enerjili bir ses tonu|1234_hl_cene
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Happy\1358_mt_yanki.wav|mutlu ve enerjik bir ses tonu|1358_mt_yanki
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Angry\1234_kz_cene.wav|öfkeli ve sert bir ses tonu|1234_kz_cene
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Calm\1358_sk_eski.wav|sakin ve rahatlatıcı bir ses tonu|1358_sk_eski
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Sad\1358_hl_cay.wav|üzgün ve düşük enerjili bir ses tonu|1358_hl_cay
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Sad\1234_hl_sarap.wav|üzgün ve düşük enerjili bir ses tonu|1234_hl_sarap
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Sad\1234_hl_cekirge.wav|üzgün ve düşük enerjili bir ses tonu|1234_hl_cekirge
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Angry\6783_kz_orgu.wav|öfkeli ve sert bir ses tonu|6783_kz_orgu
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Angry\1157_kz_dugun.wav|öfkeli ve sert bir ses tonu|1157_kz_dugun
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Angry\1234_kz_eski.wav|öfkeli ve sert bir ses tonu|1234_kz_eski
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Angry\7895_kz_deve.wav|öfkeli ve sert bir ses tonu|7895_kz_deve
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Angry\1234_kz_defne.wav|öfkeli ve sert bir ses tonu|1234_kz_defne
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Calm\1984_sk_pihti.wav|sakin ve rahatlatıcı bir ses tonu|1984_sk_pihti
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Sad\1358_hl_melek.wav|üzgün ve düşük enerjili bir ses tonu|1358_hl_melek
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Angry\1358_kz_bugu.wav|öfkeli ve sert bir ses tonu|1358_kz_bugu
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Calm\1234_sk_senlik.wav|sakin ve rahatlatıcı bir ses tonu|1234_sk_senlik
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Sad\7895_hl_kusluk.wav|üzgün ve düşük enerjili bir ses tonu|7895_hl_kusluk
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Happy\6783_mt_karton.wav|mutlu ve enerjik bir ses tonu|6783_mt_karton
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Sad\6783_hl_kiler.wav|üzgün ve düşük enerjili bir ses tonu|6783_hl_kiler
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Angry\6783_kz_demet.wav|öfkeli ve sert bir ses tonu|6783_kz_demet
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Sad\6783_hl_eger.wav|üzgün ve düşük enerjili bir ses tonu|6783_hl_eger
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Angry\6783_kz_japon.wav|öfkeli ve sert bir ses tonu|6783_kz_japon
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Sad\1234_hl_elmacik.wav|üzgün ve düşük enerjili bir ses tonu|1234_hl_elmacik
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Calm\1234_sk_cekirge.wav|sakin ve rahatlatıcı bir ses tonu|1234_sk_cekirge
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Angry\7895_kz_unlu.wav|öfkeli ve sert bir ses tonu|7895_kz_unlu
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Calm\1234_sk_karton.wav|sakin ve rahatlatıcı bir ses tonu|1234_sk_karton
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Calm\7895_sk_japon.wav|sakin ve rahatlatıcı bir ses tonu|7895_sk_japon
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Angry\1358_kz_ordek.wav|öfkeli ve sert bir ses tonu|1358_kz_ordek
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Sad\1157_hl_isirgan.wav|üzgün ve düşük enerjili bir ses tonu|1157_hl_isirgan
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Happy\6783_mt_zeytin.wav|mutlu ve enerjik bir ses tonu|6783_mt_zeytin
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Calm\6783_sk_bugu.wav|sakin ve rahatlatıcı bir ses tonu|6783_sk_bugu
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Sad\7895_hl_eski.wav|üzgün ve düşük enerjili bir ses tonu|7895_hl_eski
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Sad\6783_hl_hekim.wav|üzgün ve düşük enerjili bir ses tonu|6783_hl_hekim
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Calm\1234_sk_koku.wav|sakin ve rahatlatıcı bir ses tonu|1234_sk_koku
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Angry\1234_kz_japon.wav|öfkeli ve sert bir ses tonu|1234_kz_japon
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Angry\1234_kz_kedi.wav|öfkeli ve sert bir ses tonu|1234_kz_kedi
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Sad\1358_hl_yazim.wav|üzgün ve düşük enerjili bir ses tonu|1358_hl_yazim
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Angry\1984_kz_goz.wav|öfkeli ve sert bir ses tonu|1984_kz_goz
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Calm\1358_sk_kustah.wav|sakin ve rahatlatıcı bir ses tonu|1358_sk_kustah
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Angry\1157_kz_yigilmak.wav|öfkeli ve sert bir ses tonu|1157_kz_yigilmak
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Happy\1358_mt_sarj.wav|mutlu ve enerjik bir ses tonu|1358_mt_sarj
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Sad\1234_hl_utanc.wav|üzgün ve düşük enerjili bir ses tonu|1234_hl_utanc
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Calm\7895_sk_kemik.wav|sakin ve rahatlatıcı bir ses tonu|7895_sk_kemik
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Happy\1358_mt_odenek.wav|mutlu ve enerjik bir ses tonu|1358_mt_odenek
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Calm\7895_sk_sepet.wav|sakin ve rahatlatıcı bir ses tonu|7895_sk_sepet
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Calm\1358_sk_tembel.wav|sakin ve rahatlatıcı bir ses tonu|1358_sk_tembel
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Calm\1358_sk_ogul.wav|sakin ve rahatlatıcı bir ses tonu|1358_sk_ogul
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Sad\7895_hl_nasil.wav|üzgün ve düşük enerjili bir ses tonu|7895_hl_nasil
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Sad\6783_hl_cay.wav|üzgün ve düşük enerjili bir ses tonu|6783_hl_cay
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Happy\6783_mt_kulac.wav|mutlu ve enerjik bir ses tonu|6783_mt_kulac
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Sad\1358_hl_tirtil.wav|üzgün ve düşük enerjili bir ses tonu|1358_hl_tirtil
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Sad\1358_hl_satir.wav|üzgün ve düşük enerjili bir ses tonu|1358_hl_satir
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Happy\1984_mt_kemik.wav|mutlu ve enerjik bir ses tonu|1984_mt_kemik
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Sad\6783_hl_ordek.wav|üzgün ve düşük enerjili bir ses tonu|6783_hl_ordek
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Happy\6783_mt_algi.wav|mutlu ve enerjik bir ses tonu|6783_mt_algi
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Happy\7895_mt_kemik.wav|mutlu ve enerjik bir ses tonu|7895_mt_kemik
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Calm\1358_sk_kiler.wav|sakin ve rahatlatıcı bir ses tonu|1358_sk_kiler
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Calm\1234_sk_tirtil.wav|sakin ve rahatlatıcı bir ses tonu|1234_sk_tirtil
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Happy\1984_mt_sarap.wav|mutlu ve enerjik bir ses tonu|1984_mt_sarap
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Sad\1358_hl_nicin.wav|üzgün ve düşük enerjili bir ses tonu|1358_hl_nicin
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Sad\1157_hl_kagit.wav|üzgün ve düşük enerjili bir ses tonu|1157_hl_kagit
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Calm\1984_sk_demet.wav|sakin ve rahatlatıcı bir ses tonu|1984_sk_demet
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Angry\1157_kz_deve.wav|öfkeli ve sert bir ses tonu|1157_kz_deve
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Angry\1358_kz_yazim.wav|öfkeli ve sert bir ses tonu|1358_kz_yazim
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Calm\1234_sk_demet.wav|sakin ve rahatlatıcı bir ses tonu|1234_sk_demet
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Angry\1984_kz_dugun.wav|öfkeli ve sert bir ses tonu|1984_kz_dugun
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Sad\1984_hl_sarj.wav|üzgün ve düşük enerjili bir ses tonu|1984_hl_sarj
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Happy\7895_mt_kustah.wav|mutlu ve enerjik bir ses tonu|7895_mt_kustah
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Angry\1234_kz_gurbuz.wav|öfkeli ve sert bir ses tonu|1234_kz_gurbuz
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Calm\7895_sk_olcut.wav|sakin ve rahatlatıcı bir ses tonu|7895_sk_olcut
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Calm\6783_sk_yazim.wav|sakin ve rahatlatıcı bir ses tonu|6783_sk_yazim
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Angry\7895_kz_kemik.wav|öfkeli ve sert bir ses tonu|7895_kz_kemik
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Sad\1984_hl_cene.wav|üzgün ve düşük enerjili bir ses tonu|1984_hl_cene
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Angry\7895_kz_karton.wav|öfkeli ve sert bir ses tonu|7895_kz_karton
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Happy\1358_mt_utanc.wav|mutlu ve enerjik bir ses tonu|1358_mt_utanc
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Calm\1358_sk_pihti.wav|sakin ve rahatlatıcı bir ses tonu|1358_sk_pihti
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Calm\1358_sk_igde.wav|sakin ve rahatlatıcı bir ses tonu|1358_sk_igde
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Sad\6783_hl_elmacik.wav|üzgün ve düşük enerjili bir ses tonu|6783_hl_elmacik
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Sad\6783_hl_deve.wav|üzgün ve düşük enerjili bir ses tonu|6783_hl_deve
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Angry\7895_kz_senlik.wav|öfkeli ve sert bir ses tonu|7895_kz_senlik
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Happy\1234_mt_defne.wav|mutlu ve enerjik bir ses tonu|1234_mt_defne
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Sad\6783_hl_soba.wav|üzgün ve düşük enerjili bir ses tonu|6783_hl_soba
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Happy\1358_mt_gurbuz.wav|mutlu ve enerjik bir ses tonu|1358_mt_gurbuz
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Calm\1984_sk_kirgin.wav|sakin ve rahatlatıcı bir ses tonu|1984_sk_kirgin
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Happy\6783_mt_orgu.wav|mutlu ve enerjik bir ses tonu|6783_mt_orgu
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Happy\1234_mt_kirgin.wav|mutlu ve enerjik bir ses tonu|1234_mt_kirgin
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Sad\1358_hl_eger.wav|üzgün ve düşük enerjili bir ses tonu|1358_hl_eger
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Calm\7895_sk_utanc.wav|sakin ve rahatlatıcı bir ses tonu|7895_sk_utanc
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Sad\1234_hl_yigilmak.wav|üzgün ve düşük enerjili bir ses tonu|1234_hl_yigilmak
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Calm\1234_sk_orgu.wav|sakin ve rahatlatıcı bir ses tonu|1234_sk_orgu
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Calm\1358_sk_demet.wav|sakin ve rahatlatıcı bir ses tonu|1358_sk_demet
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Calm\1358_sk_unlu.wav|sakin ve rahatlatıcı bir ses tonu|1358_sk_unlu
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Calm\6783_sk_unlu.wav|sakin ve rahatlatıcı bir ses tonu|6783_sk_unlu
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Calm\6783_sk_lufer.wav|sakin ve rahatlatıcı bir ses tonu|6783_sk_lufer
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Happy\1358_mt_lokma.wav|mutlu ve enerjik bir ses tonu|1358_mt_lokma
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Sad\1358_hl_dugun.wav|üzgün ve düşük enerjili bir ses tonu|1358_hl_dugun
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Sad\7895_hl_kagit.wav|üzgün ve düşük enerjili bir ses tonu|7895_hl_kagit
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Calm\7895_sk_odenek.wav|sakin ve rahatlatıcı bir ses tonu|7895_sk_odenek
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Calm\1234_sk_yazim.wav|sakin ve rahatlatıcı bir ses tonu|1234_sk_yazim
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Angry\1984_kz_olcut.wav|öfkeli ve sert bir ses tonu|1984_kz_olcut
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Sad\1358_hl_deyim.wav|üzgün ve düşük enerjili bir ses tonu|1358_hl_deyim
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Happy\6783_mt_demir.wav|mutlu ve enerjik bir ses tonu|6783_mt_demir
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Angry\7895_kz_orgu.wav|öfkeli ve sert bir ses tonu|7895_kz_orgu
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Happy\6783_mt_pas.wav|mutlu ve enerjik bir ses tonu|6783_mt_pas
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Calm\1984_sk_cilek.wav|sakin ve rahatlatıcı bir ses tonu|1984_sk_cilek
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Calm\1234_sk_ordek.wav|sakin ve rahatlatıcı bir ses tonu|1234_sk_ordek
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Sad\1984_hl_elmacik.wav|üzgün ve düşük enerjili bir ses tonu|1984_hl_elmacik
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Angry\1984_kz_nasil.wav|öfkeli ve sert bir ses tonu|1984_kz_nasil
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Angry\7895_kz_gicik.wav|öfkeli ve sert bir ses tonu|7895_kz_gicik
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Sad\7895_hl_gunes.wav|üzgün ve düşük enerjili bir ses tonu|7895_hl_gunes
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Sad\6783_hl_pas.wav|üzgün ve düşük enerjili bir ses tonu|6783_hl_pas
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Angry\1157_kz_sucuk.wav|öfkeli ve sert bir ses tonu|1157_kz_sucuk
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Happy\1358_mt_serin.wav|mutlu ve enerjik bir ses tonu|1358_mt_serin
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Angry\1157_kz_olcut.wav|öfkeli ve sert bir ses tonu|1157_kz_olcut
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Happy\1234_mt_unlu.wav|mutlu ve enerjik bir ses tonu|1234_mt_unlu
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Angry\1358_kz_japon.wav|öfkeli ve sert bir ses tonu|1358_kz_japon
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Angry\1157_kz_beste.wav|öfkeli ve sert bir ses tonu|1157_kz_beste
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Sad\7895_hl_hekim.wav|üzgün ve düşük enerjili bir ses tonu|7895_hl_hekim
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Sad\6783_hl_melek.wav|üzgün ve düşük enerjili bir ses tonu|6783_hl_melek
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Calm\6783_sk_okul.wav|sakin ve rahatlatıcı bir ses tonu|6783_sk_okul
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Happy\1984_mt_lokma.wav|mutlu ve enerjik bir ses tonu|1984_mt_lokma
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Sad\7895_hl_tahta.wav|üzgün ve düşük enerjili bir ses tonu|7895_hl_tahta
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Sad\6783_hl_demir.wav|üzgün ve düşük enerjili bir ses tonu|6783_hl_demir
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Calm\6783_sk_sepet.wav|sakin ve rahatlatıcı bir ses tonu|6783_sk_sepet
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Angry\1157_kz_odenek.wav|öfkeli ve sert bir ses tonu|1157_kz_odenek
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Calm\1984_sk_beste.wav|sakin ve rahatlatıcı bir ses tonu|1984_sk_beste
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Sad\1358_hl_karton.wav|üzgün ve düşük enerjili bir ses tonu|1358_hl_karton
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Sad\1234_hl_dizge.wav|üzgün ve düşük enerjili bir ses tonu|1234_hl_dizge
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Angry\6783_kz_sarj.wav|öfkeli ve sert bir ses tonu|6783_kz_sarj
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Sad\1157_hl_pihti.wav|üzgün ve düşük enerjili bir ses tonu|1157_hl_pihti
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Happy\1984_mt_simit.wav|mutlu ve enerjik bir ses tonu|1984_mt_simit
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Angry\1984_kz_turev.wav|öfkeli ve sert bir ses tonu|1984_kz_turev
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Calm\6783_sk_karton.wav|sakin ve rahatlatıcı bir ses tonu|6783_sk_karton
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Angry\1157_kz_demir.wav|öfkeli ve sert bir ses tonu|1157_kz_demir
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Sad\1358_hl_olcut.wav|üzgün ve düşük enerjili bir ses tonu|1358_hl_olcut
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Angry\7895_kz_pihti.wav|öfkeli ve sert bir ses tonu|7895_kz_pihti
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Angry\6783_kz_pamuk.wav|öfkeli ve sert bir ses tonu|6783_kz_pamuk
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Sad\6783_hl_lufer.wav|üzgün ve düşük enerjili bir ses tonu|6783_hl_lufer
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Angry\7895_kz_goz.wav|öfkeli ve sert bir ses tonu|7895_kz_goz
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Angry\1234_kz_kiler.wav|öfkeli ve sert bir ses tonu|1234_kz_kiler
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Calm\1358_sk_kagit.wav|sakin ve rahatlatıcı bir ses tonu|1358_sk_kagit
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Calm\7895_sk_kedi.wav|sakin ve rahatlatıcı bir ses tonu|7895_sk_kedi
+C:\Users\emrcn\Desktop\bert\TurEV-DB\Sound Source\Angry\6783_kz_cay.wav|öfkeli ve sert bir ses tonu|6783_kz_cay
